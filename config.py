@@ -4,10 +4,10 @@ import tweepy
 from time import sleep
 """ Config File for Tweetbot """
 
-consumer_key = 'YkuBtIWLICcuqvkQoqlz70Zst'
-consumer_secret = 'JmyS7UNK2xxeUgmthSCPIUuFEfT44FV2VxvCmesT4upsD6beRz'
-access_token = '978529541755777025-0dXKoAapCMPIOCg7wVbQMjvzMcEYqMN'
-access_token_secret = 'H4Ah6KWJy5sZZ6SwbkupTORvdUJsQEOdtLniYL3IbUwIw'
+consumer_key = 'YOUR CONSUMER KEY'
+consumer_secret = 'YOUR CONSUMER SECRET'
+access_token = 'YOUR ACCESS TOKEN'
+access_token_secret = 'YOUR ACCESS TOKEN SECRET'
 
 
 # auth
