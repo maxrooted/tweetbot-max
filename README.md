@@ -8,10 +8,12 @@
 * Auto Reply Tweet
 
 # Installation
-> apt-get update && apt-get upgrade
+> $ apt-get update && apt-get upgrade
 
-> apt-get install python3
+> $ apt-get install python3
 
-> pip3 install tweepy
+> $ pip3 install tweepy
 
+# Run
 
+> $ python3 main.py
