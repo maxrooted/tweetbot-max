@@ -10,7 +10,7 @@
 # Installation
 > apt-get update && apt-get upgrade
 
-> apt install python3
+> apt-get install python3
 
 > pip3 install tweepy
 
